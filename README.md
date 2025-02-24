@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Laurent, I'm the team lead for backend and data at [tricky](https://tricky.fr), where we make health prevention fun with escape games. 
-- 👀 I’m interested in machine learning, data analysis and web development. 
+- 👋 Hi, I’m Laurent, I'm a staff engineer at [Helloasso](https://helloasso.com).
 - 💞️ I’m passionate about tech and science.
 - 📫 Reach me on Github ! 
 
