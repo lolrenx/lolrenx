@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Laurent, I'm a software engineer at [Kraken](https://kraken.tech/).
+- 👋 Hi, I’m Laurent, I'm a senior software engineer at [Kraken](https://kraken.tech/).
 - 💞️ I’m passionate about tech and science.
 - 📫 Reach me on Github ! 
 
